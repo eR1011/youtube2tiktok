@@ -88,6 +88,26 @@
             "{\n    \"DELAY DOWLOAD\": 0,\n    \"API_KEYS\" : \"AIzaSyC5Ywug_x5cI0EsQKwaeyT3UTcKHfT6iOI\",\n    \"USE_NGROK\": false,\n    \"NGROK_AUTH_TOKEN\": \"33VQrFxKynGFh1IevY2JtLS370i_3BC5NdVebYkdL1h1tHwHv\",\n    \"CLOUDFLARE\": {\n        \"CALLBACK_PATH\": \"/ten-khach-hang\",\n        \"HUB_SECRET\": \"ten-khach-hang\",\n        \"PUBLIC_BASE_URL\": \"\",\n        \"FLASK_PORT_FIXED\": 5005,\n        \"CF_TUNNEL_TOKEN\": \"eyJhIjoiNjQzZmU4YjU3NTEwN2EwMmQyYjdlN2UwNDhkNmIzMmUiLCJ0IjoiYzdkZmFhMjMtODk2Ny00NzllLTgyOTUtYTA3ZWIxZjBjNzFlIiwicyI6Ik1qWmtOMlE0WVRndE1tUXdZUzAwTkdNd0xUazNOVEl0T0RrMVlqSXpaRGt3TVRGaSJ9\"\n    }\n}"
         ],
         [
+            "MreR",
+            "35c94c311437116c61f93ef7e6f8014c62a8beb5cfdfb82c72d9fbf608b28c8c",
+            "00:0C:29:15:D6:F9",
+            "1F8BFBFF000906A3",
+            "None",
+            "F01AD71A",
+            "CB554D56-7E0B-BA98-95DF-31F45315D6F9",
+            "f729ec8f-22d3-4a51-b967-615cf8d738af",
+            "2025-10-16 20:45:33",
+            "9999-10-12 08:48:11",
+            "7979 năm, 107 ngày",
+            "2025-10-16 22:47:33",
+            "online",
+            "yes",
+            "MACHINE GUID",
+            "",
+            "",
+            "{\n    \"DELAY DOWLOAD\": 0,\n    \"API_KEYS\" : \"AIzaSyC5Ywug_x5cI0EsQKwaeyT3UTcKHfT6iOI\",\n    \"USE_NGROK\": false,\n    \"NGROK_AUTH_TOKEN\": \"33VQrFxKynGFh1IevY2JtLS370i_3BC5NdVebYkdL1h1tHwHv\",\n    \"CLOUDFLARE\": {\n        \"CALLBACK_PATH\": \"/ten-khach-hang\",\n        \"HUB_SECRET\": \"ten-khach-hang\",\n        \"PUBLIC_BASE_URL\": \"\",\n        \"FLASK_PORT_FIXED\": 5005,\n        \"CF_TUNNEL_TOKEN\": \"eyJhIjoiNjQzZmU4YjU3NTEwN2EwMmQyYjdlN2UwNDhkNmIzMmUiLCJ0IjoiYzdkZmFhMjMtODk2Ny00NzllLTgyOTUtYTA3ZWIxZjBjNzFlIiwicyI6Ik1qWmtOMlE0WVRndE1tUXdZUzAwTkdNd0xUazNOVEl0T0RrMVlqSXpaRGt3TVRGaSJ9\"\n    }\n}"
+        ],
+        [
             "M.R.E.R"
         ]
     ]
